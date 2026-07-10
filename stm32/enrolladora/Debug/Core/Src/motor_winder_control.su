@@ -1,0 +1,2 @@
+../Core/Src/motor_winder_control.c:22:6:MotorWinderControl_Init	32	static
+../Core/Src/motor_winder_control.c:42:6:MotorWinderControl_Update	24	static

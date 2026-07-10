@@ -1,0 +1,7 @@
+../Core/Src/temperature_control.c:46:17:ticks_from_ms	24	static
+../Core/Src/temperature_control.c:55:13:configure_temperature_pid	8	static
+../Core/Src/temperature_control.c:78:13:configure_temperature_sensor	24	static
+../Core/Src/temperature_control.c:110:6:TemperatureControl_Init	16	static
+../Core/Src/temperature_control.c:128:6:TemperatureControl_Off	8	static
+../Core/Src/temperature_control.c:138:6:TemperatureControl_IsSensorOk	4	static
+../Core/Src/temperature_control.c:143:6:TemperatureControl_Update	80	static

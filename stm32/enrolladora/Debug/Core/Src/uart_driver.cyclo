@@ -1,0 +1,16 @@
+../Core/Src/uart_driver.c:38:13:UartDriver_RegisterInstance	3
+../Core/Src/uart_driver.c:53:22:UartDriver_FindByHandle	4
+../Core/Src/uart_driver.c:68:13:UartDriver_NotifyTask	3
+../Core/Src/uart_driver.c:84:17:UartDriver_Strnlen	3
+../Core/Src/uart_driver.c:97:13:UartDriver_StartRxDma	3
+../Core/Src/uart_driver.c:147:13:UartDriver_PushRxLine	2
+../Core/Src/uart_driver.c:180:13:UartDriver_ProcessRxByte	7
+../Core/Src/uart_driver.c:245:13:UartDriver_ServiceRx	9
+../Core/Src/uart_driver.c:314:13:UartDriver_ServiceTx	7
+../Core/Src/uart_driver.c:397:6:UartDriver_Init	6
+../Core/Src/uart_driver.c:474:6:UartDriver_Service	3
+../Core/Src/uart_driver.c:503:6:UartDriver_ReadLine	5
+../Core/Src/uart_driver.c:542:6:UartDriver_SendLine	6
+../Core/Src/uart_driver.c:626:6:HAL_UARTEx_RxEventCallback	2
+../Core/Src/uart_driver.c:646:6:HAL_UART_TxCpltCallback	2
+../Core/Src/uart_driver.c:671:6:HAL_UART_ErrorCallback	2

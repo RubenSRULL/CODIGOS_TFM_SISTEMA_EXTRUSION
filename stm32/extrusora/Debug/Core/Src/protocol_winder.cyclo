@@ -1,0 +1,15 @@
+../Core/Src/protocol_winder.c:32:13:send_line	3
+../Core/Src/protocol_winder.c:43:13:starts_with	3
+../Core/Src/protocol_winder.c:54:13:parse_uint_field	6
+../Core/Src/protocol_winder.c:88:13:parse_float_field	6
+../Core/Src/protocol_winder.c:122:13:process_winder_status	4
+../Core/Src/protocol_winder.c:154:6:ProtocolWinder_Init	1
+../Core/Src/protocol_winder.c:160:6:ProtocolWinder_SendPing	2
+../Core/Src/protocol_winder.c:175:6:ProtocolWinder_SendStateRequest	2
+../Core/Src/protocol_winder.c:190:6:ProtocolWinder_SendHome	2
+../Core/Src/protocol_winder.c:205:6:ProtocolWinder_SendRun	2
+../Core/Src/protocol_winder.c:220:6:ProtocolWinder_SendStop	2
+../Core/Src/protocol_winder.c:235:6:ProtocolWinder_SendReset	2
+../Core/Src/protocol_winder.c:250:6:ProtocolWinder_SendSetRpm	3
+../Core/Src/protocol_winder.c:278:6:ProtocolWinder_ProcessLine	6
+../Core/Src/protocol_winder.c:324:6:ProtocolWinder_PollState	1

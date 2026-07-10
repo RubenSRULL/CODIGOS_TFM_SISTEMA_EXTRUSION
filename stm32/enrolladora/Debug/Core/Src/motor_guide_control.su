@@ -1,0 +1,6 @@
+../Core/Src/motor_guide_control.c:53:6:MotorGuideControl_Init	32	static
+../Core/Src/motor_guide_control.c:85:6:MotorGuideControl_Update	32	static
+../Core/Src/motor_guide_control.c:140:13:GuideLimit_Update	24	static
+../Core/Src/motor_guide_control.c:172:13:Limit1_ReadRaw	8	static
+../Core/Src/motor_guide_control.c:184:13:Limit2_ReadRaw	8	static
+../Core/Src/motor_guide_control.c:196:14:GuideDirectionToRpm	16	static

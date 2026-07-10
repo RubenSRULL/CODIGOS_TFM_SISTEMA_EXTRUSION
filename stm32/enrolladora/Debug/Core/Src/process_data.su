@@ -1,0 +1,8 @@
+../Core/Src/process_data.c:17:13:ProcessData_Lock	8	static
+../Core/Src/process_data.c:25:13:ProcessData_Unlock	8	static
+../Core/Src/process_data.c:33:6:ProcessData_Init	24	static
+../Core/Src/process_data.c:51:6:ProcessData_GetSnapshot	24	static
+../Core/Src/process_data.c:63:6:ProcessData_SetWinderState	16	static
+../Core/Src/process_data.c:70:6:ProcessData_SetAlarmFlags	16	static
+../Core/Src/process_data.c:77:6:ProcessData_SetRpmSetpoint	16	static
+../Core/Src/process_data.c:89:6:ProcessData_SetFSMOutputs	16	static

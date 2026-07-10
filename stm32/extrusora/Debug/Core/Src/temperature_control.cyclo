@@ -1,0 +1,7 @@
+../Core/Src/temperature_control.c:46:17:ticks_from_ms	1
+../Core/Src/temperature_control.c:55:13:configure_temperature_pid	1
+../Core/Src/temperature_control.c:78:13:configure_temperature_sensor	2
+../Core/Src/temperature_control.c:110:6:TemperatureControl_Init	1
+../Core/Src/temperature_control.c:128:6:TemperatureControl_Off	1
+../Core/Src/temperature_control.c:138:6:TemperatureControl_IsSensorOk	1
+../Core/Src/temperature_control.c:143:6:TemperatureControl_Update	12

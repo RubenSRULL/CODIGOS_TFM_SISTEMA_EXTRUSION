@@ -1,0 +1,7 @@
+../Core/Src/safety.c:14:6:Safety_Init	1
+../Core/Src/safety.c:20:6:Safety_Update	1
+../Core/Src/safety.c:26:6:Safety_HasFault	1
+../Core/Src/safety.c:31:10:Safety_GetAlarmFlags	1
+../Core/Src/safety.c:36:6:Safety_SetFault	1
+../Core/Src/safety.c:42:6:Safety_ClearFault	1
+../Core/Src/safety.c:48:6:Safety_ClearAll	1

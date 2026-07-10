@@ -1,0 +1,8 @@
+../Core/Src/protocol_extruder.c:34:13:send_line	3
+../Core/Src/protocol_extruder.c:43:13:send_ok	1
+../Core/Src/protocol_extruder.c:49:13:send_err	1
+../Core/Src/protocol_extruder.c:55:13:starts_with	3
+../Core/Src/protocol_extruder.c:66:13:parse_float_after_prefix	7
+../Core/Src/protocol_extruder.c:107:6:ProtocolExtruder_Init	1
+../Core/Src/protocol_extruder.c:113:6:ProtocolExtruder_SendStatus	1
+../Core/Src/protocol_extruder.c:133:6:ProtocolExtruder_ProcessLine	11

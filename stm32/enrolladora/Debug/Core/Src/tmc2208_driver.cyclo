@@ -1,0 +1,9 @@
+../Core/Src/tmc2208_driver.c:17:6:TMC2208_Init	7
+../Core/Src/tmc2208_driver.c:64:6:TMC2208_Stop	8
+../Core/Src/tmc2208_driver.c:80:6:TMC2208_SetRpm	13
+../Core/Src/tmc2208_driver.c:128:6:TMC2208_IsRunning	2
+../Core/Src/tmc2208_driver.c:138:14:TMC2208_Abs	2
+../Core/Src/tmc2208_driver.c:143:14:TMC2208_LimitRpm	4
+../Core/Src/tmc2208_driver.c:163:17:TMC2208_RpmToArr	5
+../Core/Src/tmc2208_driver.c:195:13:TMC2208_SetDirection	4
+../Core/Src/tmc2208_driver.c:214:13:TMC2208_Enable	3

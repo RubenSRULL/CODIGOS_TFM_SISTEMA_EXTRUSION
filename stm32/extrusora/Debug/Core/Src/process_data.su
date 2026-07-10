@@ -1,0 +1,16 @@
+../Core/Src/process_data.c:16:13:ProcessData_Lock	8	static
+../Core/Src/process_data.c:24:13:ProcessData_Unlock	8	static
+../Core/Src/process_data.c:32:6:ProcessData_Init	24	static
+../Core/Src/process_data.c:54:6:ProcessData_GetSnapshot	24	static
+../Core/Src/process_data.c:70:6:ProcessData_SetTemperature	16	static
+../Core/Src/process_data.c:77:6:ProcessData_SetTargetTemp	16	static
+../Core/Src/process_data.c:84:6:ProcessData_SetHeaterPercent	16	static
+../Core/Src/process_data.c:105:6:ProcessData_SetDiameter	16	static
+../Core/Src/process_data.c:112:6:ProcessData_SetTargetDiameter	16	static
+../Core/Src/process_data.c:123:6:ProcessData_SetRpmIntSetpoint	16	static
+../Core/Src/process_data.c:135:6:ProcessData_SetRpmExtSetpoint	16	static
+../Core/Src/process_data.c:151:6:ProcessData_SetExtruderState	16	static
+../Core/Src/process_data.c:158:6:ProcessData_SetWinderState	16	static
+../Core/Src/process_data.c:169:6:ProcessData_SetAlarmFlags	16	static
+../Core/Src/process_data.c:176:6:ProcessData_SetWinderAlarmFlags	16	static
+../Core/Src/process_data.c:187:6:ProcessData_SetFSMOutputs	24	static

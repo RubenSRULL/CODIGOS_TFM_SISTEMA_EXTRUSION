@@ -1,0 +1,8 @@
+../Core/Src/ssr50da_driver.c:13:14:clamp_float	24	static
+../Core/Src/ssr50da_driver.c:28:17:ticks_from_ms	24	static
+../Core/Src/ssr50da_driver.c:37:13:SSR50DA_Write	16	static
+../Core/Src/ssr50da_driver.c:51:6:SSR50DA_Init	24	static
+../Core/Src/ssr50da_driver.c:73:6:SSR50DA_SetDuty	16	static
+../Core/Src/ssr50da_driver.c:86:6:SSR50DA_Update	32	static
+../Core/Src/ssr50da_driver.c:128:6:SSR50DA_Off	16	static
+../Core/Src/ssr50da_driver.c:141:7:SSR50DA_GetDuty	16	static

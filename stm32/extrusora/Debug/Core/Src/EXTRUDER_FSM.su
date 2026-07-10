@@ -1,0 +1,4 @@
+../Core/Src/EXTRUDER_FSM.c:51:13:EXTRUDER_FSM_AUTO	4	static
+../Core/Src/EXTRUDER_FSM.c:218:6:EXTRUDER_FSM_step	8	static
+../Core/Src/EXTRUDER_FSM.c:409:6:EXTRUDER_FSM_initialize	4	static
+../Core/Src/EXTRUDER_FSM.c:415:6:EXTRUDER_FSM_terminate	4	static

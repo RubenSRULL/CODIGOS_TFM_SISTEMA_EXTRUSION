@@ -1,0 +1,10 @@
+../Core/Src/protocol_hmi.c:34:13:send_line	3
+../Core/Src/protocol_hmi.c:43:13:send_ok	1
+../Core/Src/protocol_hmi.c:49:13:send_err	1
+../Core/Src/protocol_hmi.c:55:13:starts_with	3
+../Core/Src/protocol_hmi.c:66:13:parse_float_after_prefix	7
+../Core/Src/protocol_hmi.c:107:6:ProtocolHMI_Init	1
+../Core/Src/protocol_hmi.c:117:6:ProtocolHMI_SendRawLine	1
+../Core/Src/protocol_hmi.c:123:6:ProtocolHMI_SendState	1
+../Core/Src/protocol_hmi.c:144:6:ProtocolHMI_SendTelemetry	1
+../Core/Src/protocol_hmi.c:182:6:ProtocolHMI_ProcessLine	29

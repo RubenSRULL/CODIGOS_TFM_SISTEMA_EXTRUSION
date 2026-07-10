@@ -1,0 +1,6 @@
+../Core/Src/edu301d_driver.c:21:6:EDU301D_Init	1
+../Core/Src/edu301d_driver.c:33:6:EDU301D_Stop	1
+../Core/Src/edu301d_driver.c:43:6:EDU301D_SetRpm	6
+../Core/Src/edu301d_driver.c:83:6:EDU301D_IsRunning	1
+../Core/Src/edu301d_driver.c:88:14:EDU301D_LimitRpm	3
+../Core/Src/edu301d_driver.c:103:17:EDU301D_RpmToArr	4

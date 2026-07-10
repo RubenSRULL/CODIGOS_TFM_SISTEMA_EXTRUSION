@@ -1,0 +1,12 @@
+../Core/Src/wrapper_fsm.c:23:6:WinderFSM_Init	1
+../Core/Src/wrapper_fsm.c:36:6:WinderFSM_Update	2
+../Core/Src/wrapper_fsm.c:64:6:WinderFSM_CommandHome	1
+../Core/Src/wrapper_fsm.c:70:6:WinderFSM_CommandRun	1
+../Core/Src/wrapper_fsm.c:75:6:WinderFSM_CommandStop	1
+../Core/Src/wrapper_fsm.c:80:6:WinderFSM_CommandReset	1
+../Core/Src/wrapper_fsm.c:85:6:WinderFSM_SetInitOk	1
+../Core/Src/wrapper_fsm.c:90:6:WinderFSM_SetHomeOk	1
+../Core/Src/wrapper_fsm.c:95:9:WinderFSM_GetState	1
+../Core/Src/wrapper_fsm.c:100:6:WinderFSM_IsGuideEnabled	1
+../Core/Src/wrapper_fsm.c:105:6:WinderFSM_IsWinderEnabled	1
+../Core/Src/wrapper_fsm.c:110:6:WinderFSM_IsAlarmActive	1
